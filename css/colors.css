@@ -1,0 +1,249 @@
+/* ======================================================================== */
+/* ! Colors
+/* ======================================================================== */
+.red {
+	color: #e97770;
+}
+.aqua {
+	color: #184379;
+}
+.turquoise {
+	color: #72c1b0;
+}
+.sun-flowers {
+	color: #f1c40f;
+}
+.bg-white {
+	background: #fff;
+}
+/* ======================================================================== */
+/* ! Red
+/* ======================================================================== */
+.page-red .nav-list > .active > a, 
+.page-red .nav-list > .active > a:hover, 
+.page-red .nav-list > .active > a:focus,
+.page-red .dropdown-menu > li > a:hover, 
+.page-red .dropdown-menu > li > a:focus, 
+.page-red .dropdown-submenu:hover > a, 
+.page-red .dropdown-submenu:focus > a,
+.page-red .nav-pills > .active > a, 
+.page-red .nav-pills > .active > a:hover, 
+.page-red .nav-pills > .active > a:focus,
+.page-red .nav-tabs.nav-stacked > li > a:hover, 
+.page-red .nav-tabs.nav-stacked > li > a:focus,
+.page-red .navbar .nav > .active > a, 
+.page-red .navbar .nav > .active > a:hover, 
+.page-red .navbar .nav > .active > a:focus,
+.page-red .navbar .nav > li > a:focus, 
+.page-red .navbar .nav > li > a:hover,
+.page-red .pricing-table.focus,
+.page-red .bg-colored,
+.page-red .member-photo a .hover,
+.page-red .service-wrapper .full-rounded,
+.page-red .progress .bar,
+.page-red .btn-quivee,
+.page-red .btn-quivee:focus, 
+.page-red .btn-quivee:active,
+.page-red .btn-quivee.active, 
+.page-red .btn-quivee.disabled, 
+.page-red .btn-quivee[disabled],
+.page-red #portfolio-filter .active a,
+.page-red #portfolio-filter .active a:hover,
+.page-red .pricing-action a.bg-quivee,
+.page-red .accordion-toggle:hover,
+.page-red .service-wrapper:hover,
+.page-red .dropdown-menu li > a:hover,
+.page-red .dropdown-menu li > a:focus,
+.page-red .dropdown-submenu:hover > a,
+.page-red .post a:hover .hover {
+	background: #e97770 url(../images/overlay.png) repeat 0 0;
+	color: #fff;
+	text-shadow: none;
+	border: none;
+}
+.page-red a,
+.page-red .emphasis,
+.page-red .member-wrapper a:hover i,
+.page-red .btn-link {
+	color: #ff5e4d;
+}
+.page-red .service-wrapper .full-rounded {
+	border: 5px solid #e97770;
+}
+.page-red .btn-quivee:hover {
+	background: #ff7566 none;
+}
+/* ======================================================================== */
+/* ! Aqua
+/* ======================================================================== */
+.page-aqua .nav-list > .active > a, 
+.page-aqua .nav-list > .active > a:hover, 
+.page-aqua .nav-list > .active > a:focus,
+.page-aqua .dropdown-menu > li > a:hover, 
+.page-aqua .dropdown-menu > li > a:focus, 
+.page-aqua .dropdown-submenu:hover > a, 
+.page-aqua .dropdown-submenu:focus > a,
+.page-aqua .nav-pills > .active > a, 
+.page-aqua .nav-pills > .active > a:hover, 
+.page-aqua .nav-pills > .active > a:focus,
+.page-aqua .nav-tabs.nav-stacked > li > a:hover, 
+.page-aqua .nav-tabs.nav-stacked > li > a:focus,
+.page-aqua .navbar .nav > .active > a, 
+.page-aqua .navbar .nav > .active > a:hover, 
+.page-aqua .navbar .nav > .active > a:focus,
+.page-aqua .navbar .nav > li > a:focus, 
+.page-aqua .navbar .nav > li > a:hover,
+.page-aqua .pricing-table.focus,
+.page-aqua .bg-colored,
+.page-aqua .member-photo a .hover,
+.page-aqua .service-wrapper .full-rounded,
+.page-aqua .progress .bar,
+.page-aqua .btn-quivee,
+.page-aqua .btn-quivee:focus, 
+.page-aqua .btn-quivee:active,
+.page-aqua .btn-quivee.active, 
+.page-aqua .btn-quivee.disabled, 
+.page-aqua .btn-quivee[disabled],
+.page-aqua #portfolio-filter .active a,
+.page-aqua #portfolio-filter .active a:hover,
+.page-aqua .pricing-action a.bg-quivee,
+.page-aqua .accordion-toggle:hover,
+.page-aqua .service-wrapper:hover,
+.page-aqua .dropdown-menu li > a:hover,
+.page-aqua .dropdown-menu li > a:focus,
+.page-aqua .dropdown-submenu:hover > a,
+.page-aqua .post a:hover .hover {
+	background: #184379  repeat 0 0;
+	color: #fff;
+	text-shadow: none;
+	border: none;
+}
+.page-aqua a,
+.page-aqua .emphasis,
+.page-aqua .member-wrapper a:hover i,
+.page-aqua .btn-link {
+	color: #184379;
+}
+.page-aqua .service-wrapper .full-rounded {
+	border: 5px solid #52bad5;
+}
+.page-aqua .btn-quivee:hover {
+	background: #de1f25 none;
+}
+/* ======================================================================== */
+/* ! Turquoise
+/* ======================================================================== */
+.page-turquoise .nav-list > .active > a, 
+.page-turquoise .nav-list > .active > a:hover, 
+.page-turquoise .nav-list > .active > a:focus,
+.page-turquoise .dropdown-menu > li > a:hover, 
+.page-turquoise .dropdown-menu > li > a:focus, 
+.page-turquoise .dropdown-submenu:hover > a, 
+.page-turquoise .dropdown-submenu:focus > a,
+.page-turquoise .nav-pills > .active > a, 
+.page-turquoise .nav-pills > .active > a:hover, 
+.page-turquoise .nav-pills > .active > a:focus,
+.page-turquoise .nav-tabs.nav-stacked > li > a:hover, 
+.page-turquoise .nav-tabs.nav-stacked > li > a:focus,
+.page-turquoise .navbar .nav > .active > a, 
+.page-turquoise .navbar .nav > .active > a:hover, 
+.page-turquoise .navbar .nav > .active > a:focus,
+.page-turquoise .navbar .nav > li > a:focus, 
+.page-turquoise .navbar .nav > li > a:hover,
+.page-turquoise .pricing-table.focus,
+.page-turquoise .bg-colored,
+.page-turquoise .member-photo a .hover,
+.page-turquoise .service-wrapper .full-rounded,
+.page-turquoise .progress .bar,
+.page-turquoise .btn-quivee,
+.page-turquoise .btn-quivee:focus, 
+.page-turquoise .btn-quivee:active,
+.page-turquoise .btn-quivee.active, 
+.page-turquoise .btn-quivee.disabled, 
+.page-turquoise .btn-quivee[disabled],
+.page-turquoise #portfolio-filter .active a,
+.page-turquoise #portfolio-filter .active a:hover,
+.page-turquoise .pricing-action a.bg-quivee,
+.page-turquoise .accordion-toggle:hover,
+.page-turquoise .service-wrapper:hover,
+.page-turquoise .dropdown-menu li > a:hover,
+.page-turquoise .dropdown-menu li > a:focus,
+.page-turquoise .dropdown-submenu:hover > a,
+.page-turquoise .post a:hover .hover {
+	background: #72c1b0 url(../images/overlay.png) repeat 0 0;
+	color: #fff;
+	text-shadow: none;
+	border: none;
+}
+.page-turquoise a,
+.page-turquoise .emphasis,
+.page-turquoise .member-wrapper a:hover i,
+.page-turquoise .btn-link {
+	color: #85dfcc;
+}
+.page-turquoise .service-wrapper .full-rounded {
+	border: 5px solid #72c1b0;
+}
+.page-turquoise .btn-quivee:hover {
+	background: #85dfcc none;
+}
+/* ======================================================================== */
+/* ! Sun-flowers
+/* ======================================================================== */
+.page-sun-flowers .nav-list > .active > a, 
+.page-sun-flowers .nav-list > .active > a:hover, 
+.page-sun-flowers .nav-list > .active > a:focus,
+.page-sun-flowers .dropdown-menu > li > a:hover, 
+.page-sun-flowers .dropdown-menu > li > a:focus, 
+.page-sun-flowers .dropdown-submenu:hover > a, 
+.page-sun-flowers .dropdown-submenu:focus > a,
+.page-sun-flowers .nav-pills > .active > a, 
+.page-sun-flowers .nav-pills > .active > a:hover, 
+.page-sun-flowers .nav-pills > .active > a:focus,
+.page-sun-flowers .nav-tabs.nav-stacked > li > a:hover, 
+.page-sun-flowers .nav-tabs.nav-stacked > li > a:focus,
+.page-sun-flowers .navbar .nav > .active > a, 
+.page-sun-flowers .navbar .nav > .active > a:hover, 
+.page-sun-flowers .navbar .nav > .active > a:focus,
+.page-sun-flowers .navbar .nav > li > a:focus, 
+.page-sun-flowers .navbar .nav > li > a:hover,
+.page-sun-flowers .pricing-table.focus,
+.page-sun-flowers .bg-colored,
+.page-sun-flowers .member-photo a .hover,
+.page-sun-flowers .service-wrapper .full-rounded,
+.page-sun-flowers .progress .bar,
+.page-sun-flowers .btn-quivee,
+.page-sun-flowers .btn-quivee:focus, 
+.page-sun-flowers .btn-quivee:active,
+.page-sun-flowers .btn-quivee.active, 
+.page-sun-flowers .btn-quivee.disabled, 
+.page-sun-flowers .btn-quivee[disabled],
+.page-sun-flowers #portfolio-filter .active a,
+.page-sun-flowers #portfolio-filter .active a:hover,
+.page-sun-flowers .pricing-action a.bg-quivee,
+.page-sun-flowers .accordion-toggle:hover,
+.page-sun-flowers .service-wrapper:hover,
+.page-sun-flowers .dropdown-menu li > a:hover,
+.page-sun-flowers .dropdown-menu li > a:focus,
+.page-sun-flowers .dropdown-submenu:hover > a,
+.page-sun-flowers .post a:hover .hover {
+	background: #f1c40f url(../images/overlay.png) repeat 0 0;
+	color: #fff;
+	text-shadow: none;
+	border: none;
+}
+.page-sun-flowers a,
+.page-sun-flowers .emphasis,
+.page-sun-flowers .member-wrapper a:hover i,
+.page-sun-flowers .btn-link {
+	color: #f1c40f;
+}
+.page-sun-flowers .service-wrapper .full-rounded {
+	border: 5px solid #f1c40f;
+}
+.page-sun-flowers .btn-quivee:hover {
+	background: #fed945 none;
+}
+
+
+
